@@ -1,0 +1,2 @@
+# jqassistant-hybris-plugin
+A jqassistant plugin for analysis hybris commerce suite projects
